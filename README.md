@@ -9,7 +9,7 @@
 
 ---
 
-### ➕ also know
+### ➕ also touch
 
 `C`, `Python`, `SQLite`
 
