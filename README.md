@@ -28,7 +28,8 @@
 
 ---
 
-### 📌 pinned
+### 🔧 featured work
 
-check pinned repositories below ↓
+- [`whisper-api`](https://github.com/podushkina/whisper-api)  
+  🗣️ simple self-hosted API for OpenAI's Whisper — upload, transcribe, done.
 
