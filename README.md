@@ -1,16 +1,34 @@
-## Hi there 👋
+<h2 align="center">Hi, I'm podushkina 👩‍💻</h2>
 
-<!--
-**podushkina/podushkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Golang-FFDDEE?style=for-the-badge&logo=go&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FFB7C5?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-E3BAC6?style=for-the-badge&logo=postgresql&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-FCD6E3?style=for-the-badge&logo=docker&logoColor=black" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ➕ also know
+
+`C`, `Python`, `SQLite`
+
+---
+
+### 💫 fun
+
+- 🩰 professional dancer outside dev life  
+- 🌷 focused, structured, and never boring
+
+---
+
+### 📬 reach me
+
+[![Telegram](https://img.shields.io/badge/@podushkina-FF92AC?style=flat-square&logo=telegram&logoColor=black)](https://t.me/podushkinaa)
+
+---
+
+### 📌 pinned
+
+check pinned repositories below ↓
+
