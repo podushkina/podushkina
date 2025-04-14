@@ -15,6 +15,13 @@
 
 ---
 
+### 🔧 featured work
+
+- [`whisper-api`](https://github.com/podushkina/whisper-api)  
+  🗣️ simple self-hosted API for OpenAI's Whisper — upload, transcribe, done.
+
+---
+
 ### 💫 fun
 
 - 🩰 professional dancer outside dev life  
@@ -25,11 +32,3 @@
 ### 📬 reach me
 
 [![Telegram](https://img.shields.io/badge/@podushkina-FF92AC?style=flat-square&logo=telegram&logoColor=black)](https://t.me/podushkinaa)
-
----
-
-### 🔧 featured work
-
-- [`whisper-api`](https://github.com/podushkina/whisper-api)  
-  🗣️ simple self-hosted API for OpenAI's Whisper — upload, transcribe, done.
-
