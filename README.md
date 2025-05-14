@@ -11,7 +11,7 @@
 
 ### ➕ also touch
 
-`C`, `Python`, `SQLite`
+`C`, `Python`
 
 ---
 
