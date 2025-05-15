@@ -18,13 +18,13 @@
 ### 🔧 featured work
 
 - [`whisper-api`](https://github.com/podushkina/whisper-api)  
-  🗣️ A simple self-hosted API for OpenAI's Whisper — upload audio, transcribe, done.
+  🗣️ Простое API для Whisper от OpenAI, которое можно развернуть локально. Позволяет загружать аудиофайлы и автоматически получать их расшифровку.
 
 - [`devhelper`](https://github.com/podushkina/devhelper)  
-  🛠️ A versatile, multifunctional command-line utility for developers. It bundles essential tools for data processing, formatting, API testing, and resource monitoring — all in one compact tool to streamline everyday workflows.
+  🛠️ Универсальный многофункциональный инструмент командной строки для разработчиков. Включает в себя ключевые утилиты для обработки данных, форматирования, тестирования API и мониторинга ресурсов — всё в одном, чтобы упростить повседневную работу.
 
 - [`go-audit`](https://github.com/podushkina/go-audit)  
-  🔐 A static security analyzer for Go code, designed to detect common vulnerabilities and security issues. Helps developers build safer, more secure applications by catching risks early in the development process.
+  🔐 Статический анализатор безопасности для Go-кода, предназначенный для обнаружения распространённых уязвимостей и проблем. Помогает разработчикам создавать более безопасные приложения, выявляя риски на раннем этапе.
 
 ---
 
