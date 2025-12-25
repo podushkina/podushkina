@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm podushkina 👩‍💻</h2>
 
 <p align="center">
-  3rd year student at MAI (Moscow Aviation Institute) 
+  3rd year student at Moscow Aviation Institute
 </p>
 
 <p align="center">
