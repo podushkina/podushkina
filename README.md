@@ -44,8 +44,8 @@
 
 ### 💫 fun
 
-- 🩰 professional dancer outside dev life  
-- 🌷 focused, structured, and never boring
+- 🩰 Professional dancer outside dev life  
+- 🌷 Focused, structured, and never boring
 
 ---
 
