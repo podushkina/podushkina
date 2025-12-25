@@ -32,7 +32,7 @@
 
 ---
 
-### 📊 applied ML / stats (Python)
+### 🎓 university
 
 - [`math-statistics`](https://github.com/podushkina/math-statistics)  
   📈 Stats coursework: OLS polynomial regression, confidence intervals, residual normality test (Pearson’s χ²) *(PDF report inside)*
