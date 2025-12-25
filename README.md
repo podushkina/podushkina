@@ -1,10 +1,6 @@
 <h2 align="center">Hi, I'm podushkina 👩‍💻</h2>
 
 <p align="center">
-  3rd year student at Moscow Aviation Institute
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Golang-FFDDEE?style=for-the-badge&logo=go&logoColor=black" />
   <img src="https://img.shields.io/badge/Linux-FFB7C5?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/PostgreSQL-E3BAC6?style=for-the-badge&logo=postgresql&logoColor=black" />
