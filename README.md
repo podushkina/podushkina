@@ -31,7 +31,8 @@
 ### 🎓 university
 
 - [`math-statistics`](https://github.com/podushkina/math-statistics)  
-  📈 Stats coursework: OLS polynomial regression, confidence intervals, residual normality test (Pearson’s χ²) *(PDF report inside)*
+  📈 Stats coursework: least squares (OLS) quadratic regression, confidence intervals (params/variance/signal), residual histogram + Pearson’s χ² normality test. *(PDF report inside)*
+
 
 - [`mnist-cnn`](https://github.com/podushkina/mnist-cnn)  
   🧠 MNIST CNN: training + evaluation + inference demo on new images
