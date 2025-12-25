@@ -1,6 +1,10 @@
 <h2 align="center">Hi, I'm podushkina 👩‍💻</h2>
 
 <p align="center">
+  3rd year student at MAI (Moscow Aviation Institute) 
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Golang-FFDDEE?style=for-the-badge&logo=go&logoColor=black" />
   <img src="https://img.shields.io/badge/Linux-FFB7C5?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/PostgreSQL-E3BAC6?style=for-the-badge&logo=postgresql&logoColor=black" />
@@ -9,32 +13,32 @@
 
 ---
 
-### ➕ also touch
+### ➕ familiar with
 
-`C`, `Python`
+`C`, `Python (ML/Stats)`
 
 ---
 
 ### 🔧 featured work
 
 - [`whisper-api`](https://github.com/podushkina/whisper-api)  
-  🗣️ Local REST API for Whisper: upload audio → get transcription. *(Go, Docker)*
+  🗣️ Local REST API for Whisper: upload audio → get transcription *(Go, Docker)*
 
 - [`devhelper`](https://github.com/podushkina/devhelper)  
-  🛠️ Developer CLI toolbox: data utils, formatting, API testing, basic system checks. *(Go)*
+  🛠️ Developer CLI toolbox: data utils, formatting, API testing, basic system checks *(Go)*
 
 - [`go-audit`](https://github.com/podushkina/go-audit)  
-  🔐 Static security analyzer for Go code: flags common risky patterns and potential vulnerabilities. *(Go)*
+  🔐 Static security analyzer for Go code: flags common risky patterns and potential vulnerabilities *(Go)*
 
 ---
 
-### 🎓 university
+### 📊 applied ML / stats (Python)
 
 - [`math-statistics`](https://github.com/podushkina/math-statistics)  
-  📈 Stats coursework: OLS polynomial regression, confidence intervals, residual normality test (Pearson’s χ²). *(PDF report inside)*
+  📈 Stats coursework: OLS polynomial regression, confidence intervals, residual normality test (Pearson’s χ²) *(PDF report inside)*
 
 - [`mnist-cnn`](https://github.com/podushkina/mnist-cnn)  
-  🧠 MNIST CNN: training + evaluation + inference demo on new images.
+  🧠 MNIST CNN: training + evaluation + inference demo on new images
 
 ---
 
@@ -48,3 +52,4 @@
 ### 📬 reach me
 
 [![Telegram](https://img.shields.io/badge/@podushkina-FF92AC?style=flat-square&logo=telegram&logoColor=black)](https://t.me/podushkinaa)
+
