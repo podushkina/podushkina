@@ -17,6 +17,9 @@
 
 ### 🔧 featured work
 
+- [`go-backend-practice`](https://github.com/podushkina/go-backend-practice)
+  🏗️ Backend engineering lab: concurrency patterns, bots, databases (SQL) & microservices architecture *(Go, SQL, Docker)*
+
 - [`whisper-api`](https://github.com/podushkina/whisper-api)  
   🗣️ Local REST API for Whisper: upload audio → get transcription *(Go, Docker)*
 
