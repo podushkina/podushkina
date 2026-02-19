@@ -17,6 +17,9 @@
 
 ### 🔧 featured work
 
+- [`vk-log-bot`](https://github.com/podushkina/vk-log-bot)  
+  🚀 Real-time log monitoring & alerting system: regex filtering, batching, Telegram notifications & graceful shutdown *(Go, Docker)*
+  
 - [`taskqueue`](https://github.com/podushkina/taskqueue)  
   ⚡️ Async task processing system: REST API, Redis-backed worker pool with retries, exponential backoff & graceful shutdown *(Go, Redis, Docker)*
 
