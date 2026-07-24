@@ -28,10 +28,10 @@
   🚀 Real-time log monitoring & alerting system: regex filtering, batching, Telegram notifications & graceful shutdown *(Go, Docker)*
   
 - [`go-backend-practice`](https://github.com/podushkina/go-backend-practice)  
-  🏗️ Backend engineering lab: concurrency patterns, bots, databases (SQL) & microservices architecture *(Go, SQL, Docker)*
+  🏗️ Backend engineering lab: concurrency patterns, bots, databases (SQL) & microservices architecture 
 
 - [`whisper-api`](https://github.com/podushkina/whisper-api)  
-  🗣️ Local REST API for Whisper: upload audio → get transcription *(Go, Docker)*
+  🗣️ Local REST API for Whisper: upload audio → get transcription *(Go, Redis, Docker)*
 
 - [`devhelper`](https://github.com/podushkina/devhelper)  
   🛠️ Developer CLI toolbox: data utils, formatting, API testing, basic system checks *(Go)*
