@@ -10,17 +10,12 @@
 
 ---
 
-### ➕ familiar with
-
-`C`, `Python (ML/Stats)`
-
----
-
 ### 👩‍💻 about me
 
 - 🛠 **Go Backend Developer** with production experience *(ex-intern at T-Bank)*
 - 🎓 4th-year student at **Moscow Aviation Institute** *(Applied Mathematics)*
 - 📐 Strong background in **Algorithms, Applied Math & CS**
+- 🛠 **Also familiar with:** `C`, `Python (ML/Stats)`
 
 ---
 
