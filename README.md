@@ -43,9 +43,11 @@
 
 ### 🎓 university
 
-- [`math-statistics`](https://github.com/podushkina/math-statistics)  
-  📈 Stats coursework: least squares (OLS) quadratic regression, confidence intervals (params/variance/signal), residual histogram + Pearson’s χ² normality test. *(PDF report inside)*
+- [`mai-numerical-methods`](https://github.com/podushkina/mai-numerical-methods)  
+  📐 Comprehensive course repository: SLAE solvers (LU, Jacobi, QR), non-linear systems, splines, OLS, numerical integration & ODE boundary value problems *(Python, NumPy, Matplotlib)*
 
+- [`math-statistics`](https://github.com/podushkina/math-statistics)  
+  📈 Stats coursework: least squares (OLS) quadratic regression, confidence intervals (params/variance/signal), residual histogram + Pearson’s χ² normality test *(PDF report inside)*
 
 - [`mnist-cnn`](https://github.com/podushkina/mnist-cnn)  
   🧠 MNIST CNN: training + evaluation + inference demo on new images
