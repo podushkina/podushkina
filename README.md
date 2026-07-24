@@ -2,11 +2,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Golang-FFDDEE?style=for-the-badge&logo=go&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux-FFB7C5?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redis-FFD1DC?style=for-the-badge&logo=redis&logoColor=black" />
   <img src="https://img.shields.io/badge/PostgreSQL-E3BAC6?style=for-the-badge&logo=postgresql&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-FCD6E3?style=for-the-badge&logo=docker&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FFB7C5?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
 ---
 
 ### ➕ familiar with
