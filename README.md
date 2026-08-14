@@ -12,52 +12,52 @@
 
 ### 👩‍💻 about me
 
-- 🛠 **Go Backend Developer** with production experience *(ex-intern at T-Bank)*
-- 🎓 4th-year student at **Moscow Aviation Institute** *(Applied Mathematics)*
-- 📐 Strong background in **Algorithms, Applied Math & CS**
-- 🛠 **Also familiar with:** `C`, `Python (ML/Stats)`
+- **Go Backend Developer** with production experience *(ex-intern at T-Bank)*
+- 4th-year student at **Moscow Aviation Institute** *(Applied Mathematics)*
+- Strong background in **Algorithms, Applied Math & CS**
+-  **Also familiar with:** `C`, `Python (ML/Stats)`
 
 ---
 
 ### 🔧 featured work
 
 - [`taskqueue`](https://github.com/podushkina/taskqueue)  
-  ⚡️ Async task processing system: REST API, Redis-backed worker pool with retries, exponential backoff & graceful shutdown *(Go, Redis, PostgreSQL, Docker)*
+  Async task processing system: REST API, Redis-backed worker pool with retries, exponential backoff & graceful shutdown *(Go, Redis, PostgreSQL, Docker)*
 
 - [`vk-log-bot`](https://github.com/podushkina/vk-log-bot)  
-  🚀 Real-time log monitoring & alerting system: regex filtering, batching, Telegram notifications & graceful shutdown *(Go, Docker)*
+  Real-time log monitoring & alerting system: regex filtering, batching, Telegram notifications & graceful shutdown *(Go, Docker)*
   
 - [`go-backend-practice`](https://github.com/podushkina/go-backend-practice)  
-  🏗️ Backend engineering lab: concurrency patterns, bots, databases (SQL) & microservices architecture 
+  Backend engineering lab: concurrency patterns, bots, databases (SQL) & microservices architecture 
 
 - [`whisper-api`](https://github.com/podushkina/whisper-api)  
-  🗣️ Local REST API for Whisper: upload audio → get transcription *(Go, Redis, Docker)*
+  Local REST API for Whisper: upload audio → get transcription *(Go, Redis, Docker)*
 
 - [`devhelper`](https://github.com/podushkina/devhelper)  
-  🛠️ Developer CLI toolbox: data utils, formatting, API testing, basic system checks *(Go)*
+  Developer CLI toolbox: data utils, formatting, API testing, basic system checks *(Go)*
 
 - [`go-audit`](https://github.com/podushkina/go-audit)  
-  🔐 Static security analyzer for Go code: flags common risky patterns and potential vulnerabilities *(Go)*
+  Static security analyzer for Go code: flags common risky patterns and potential vulnerabilities *(Go)*
 
 ---
 
 ### 🎓 university
 
 - [`mai-numerical-methods`](https://github.com/podushkina/mai-numerical-methods)  
-  📐 Comprehensive course repository: SLAE solvers (LU, Jacobi, QR), non-linear systems, splines, OLS, numerical integration & ODE boundary value problems *(Python, NumPy, Matplotlib)*
+  Comprehensive course repository: SLAE solvers (LU, Jacobi, QR), non-linear systems, splines, OLS, numerical integration & ODE boundary value problems *(Python, NumPy, Matplotlib)*
 
 - [`math-statistics`](https://github.com/podushkina/math-statistics)  
-  📈 Stats coursework: least squares (OLS) quadratic regression, confidence intervals (params/variance/signal), residual histogram + Pearson’s χ² normality test *(PDF report inside)*
+  Stats coursework: least squares (OLS) quadratic regression, confidence intervals (params/variance/signal), residual histogram + Pearson’s χ² normality test *(PDF report inside)*
 
 - [`mnist-cnn`](https://github.com/podushkina/mnist-cnn)  
-  🧠 MNIST CNN: training + evaluation + inference demo on new images
+  MNIST CNN: training + evaluation + inference demo on new images
 
 ---
 
 ### 💫 fun
 
-- 🩰 Professional dancer outside dev life  
-- 🌷 Focused, structured, and never boring
+- Professional dancer outside dev life  
+- Focused, structured, and never boring
 
 ---
 
