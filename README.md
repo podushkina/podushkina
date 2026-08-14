@@ -24,20 +24,23 @@
 - [`taskqueue`](https://github.com/podushkina/taskqueue)  
   Distributed task queue: Redis broker, worker pool with retries & backoff, PostgreSQL history/analytics, Prometheus & Grafana monitoring *(Go, Redis, PostgreSQL, Prometheus, Grafana, Docker)*
 
+- [`avgo`](https://github.com/dimortix/avgo)  
+  Interactive anti-scam trainer: LLM-driven scam simulation, structured classification pipeline, prompt sanitization & automated test suite *(Go, PostgreSQL, Ollama, Docker)*
+
 - [`vk-log-bot`](https://github.com/podushkina/vk-log-bot)  
   Real-time log monitoring & alerting system: regex filtering, batching, Telegram notifications & graceful shutdown *(Go, Docker)*
-  
-- [`go-backend-practice`](https://github.com/podushkina/go-backend-practice)  
-  Backend engineering lab: concurrency patterns, bots, databases (SQL) & microservices architecture 
 
 - [`whisper-api`](https://github.com/podushkina/whisper-api)  
-  Local REST API for Whisper: upload audio → get transcription *(Go, Redis, Docker)*
+  Local REST API for Whisper: audio transcription pipeline, token-based auth & job management *(Go, Redis, Docker)*
 
-- [`devhelper`](https://github.com/podushkina/devhelper)  
-  Developer CLI toolbox: data utils, formatting, API testing, basic system checks *(Go)*
+- [`go-backend-practice`](https://github.com/podushkina/go-backend-practice)  
+  Backend engineering lab: concurrency patterns, bots, databases (SQL) & microservices architecture *(Go)*
 
 - [`go-audit`](https://github.com/podushkina/go-audit)  
-  Static security analyzer for Go code: flags common risky patterns and potential vulnerabilities *(Go)*
+  Static security analyzer for Go code: AST parsing, custom rule engine & vulnerability detection *(Go)*
+
+- [`devhelper`](https://github.com/podushkina/devhelper)  
+  Developer CLI toolbox: data formatting/conversion, API testing client & system monitoring *(Go)*
 
 ---
 
