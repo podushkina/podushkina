@@ -10,7 +10,7 @@
 
 ---
 
-### 👩‍💻 about me
+### about me
 
 - **Go Backend Developer** with production experience *(ex-intern at T-Bank)*
 - 4th-year student at **Moscow Aviation Institute** *(Applied Mathematics)*
@@ -19,7 +19,7 @@
 
 ---
 
-### 🔧 featured work
+### featured work
 
 - [`taskqueue`](https://github.com/podushkina/taskqueue)  
   Distributed task queue: Redis broker, worker pool with retries & backoff, PostgreSQL history/analytics, Prometheus & Grafana monitoring *(Go, Redis, PostgreSQL, Prometheus, Grafana, Docker)*
@@ -44,7 +44,7 @@
 
 ---
 
-### 🎓 university
+### university
 
 - [`mai-numerical-methods`](https://github.com/podushkina/mai-numerical-methods)  
   Comprehensive course repository: SLAE solvers (LU, Jacobi, QR), non-linear systems, splines, OLS, numerical integration & ODE boundary value problems *(Python, NumPy, Matplotlib)*
@@ -57,14 +57,14 @@
 
 ---
 
-### 💫 fun
+### fun
 
 - Professional dancer outside dev life  
 - Focused, structured, and never boring
 
 ---
 
-### 📬 reach me
+### reach me
 
 [![Telegram](https://img.shields.io/badge/@podushkina-FF92AC?style=flat-square&logo=telegram&logoColor=black)](https://t.me/podushkinaa)
 
