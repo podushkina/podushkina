@@ -24,7 +24,7 @@
 - [`taskqueue`](https://github.com/podushkina/taskqueue)  
   Distributed task queue: Redis broker, worker pool with retries & backoff, PostgreSQL history/analytics, Prometheus & Grafana monitoring *(Go, Redis, PostgreSQL, Prometheus, Grafana, Docker)*
 
-- [`avgo`](https://github.com/dimortix/avgo)  
+- [`avgo`](https://github.com/podushkina/avgo)  
   Interactive anti-scam trainer (Avito Hackathon): LLM-driven scam simulation, structured classification pipeline, prompt sanitization & automated test suite *(Go, PostgreSQL, Ollama, Docker)*
 
 - [`vk-log-bot`](https://github.com/podushkina/vk-log-bot)  
