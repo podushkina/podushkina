@@ -30,9 +30,6 @@
 - [`vk-log-bot`](https://github.com/podushkina/vk-log-bot)  
   Real-time log monitoring & alerting system: regex filtering, batching, Telegram notifications & graceful shutdown *(Go, Docker)*
 
-- [`whisper-api`](https://github.com/podushkina/whisper-api)  
-  Local REST API for Whisper: audio transcription pipeline, token-based auth & job management *(Go, Redis, Docker)*
-
 - [`go-backend-practice`](https://github.com/podushkina/go-backend-practice)  
   Backend engineering lab: concurrency patterns, bots, databases (SQL) & microservices architecture *(Go)*
 
@@ -41,6 +38,9 @@
 
 - [`devhelper`](https://github.com/podushkina/devhelper)  
   Developer CLI toolbox: data formatting/conversion, API testing client & system monitoring *(Go)*
+
+  - [`whisper-api`](https://github.com/podushkina/whisper-api)  
+  Local REST API for Whisper: audio transcription pipeline, token-based auth & job management *(Go, Redis, Docker)*
 
 ---
 
