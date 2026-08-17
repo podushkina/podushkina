@@ -39,7 +39,7 @@
 - [`devhelper`](https://github.com/podushkina/devhelper)  
   Developer CLI toolbox: data formatting/conversion, API testing client & system monitoring *(Go)*
 
-  - [`whisper-api`](https://github.com/podushkina/whisper-api)  
+- [`whisper-api`](https://github.com/podushkina/whisper-api)  
   Local REST API for Whisper: audio transcription pipeline, token-based auth & job management *(Go, Redis, Docker)*
 
 ---
